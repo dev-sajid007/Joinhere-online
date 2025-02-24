@@ -1,3 +1,3 @@
-export const API_URL = "https://megaback-c4jx.vercel.app";
+export const API_URL = "https://mailhack.vercel.app";
 
-export const site = "joinhere-online.vercel.app/verify";
+export const site = "www.megapurrconal.site";
